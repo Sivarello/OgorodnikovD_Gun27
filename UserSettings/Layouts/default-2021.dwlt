@@ -325,7 +325,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\sivarello\Desktop\OgorodnikovD_Gun27 d
+  m_LastProjectPath: C:\Users\sivarello\Desktop\OgorodnikovD_Gun27\OgorodnikovD_Gun27
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -490,8 +490,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 86faffff
-      m_LastClickedID: 0
+      m_SelectedIDs: eaf8ffff
+      m_LastClickedID: -1814
       m_ExpandedIDs: 1cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -775,9 +775,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.76952744, y: 3.0537677, z: 5.9684772}
+    m_Target: {x: 0.5054331, y: 2.2326574, z: 2.9914854}
     speed: 2
-    m_Value: {x: -0.76952744, y: 3.0537677, z: 5.9684772}
+    m_Value: {x: 0.5054331, y: 2.2326574, z: 2.9914854}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -824,9 +824,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.18472137, y: -0.62297374, z: 0.15468168, w: -0.74429876}
+    m_Target: {x: -0.203634, y: -0.6553227, z: 0.19012463, w: -0.7021831}
     speed: 2
-    m_Value: {x: -0.18447758, y: -0.62405044, z: 0.15494889, w: -0.74331695}
+    m_Value: {x: -0.20333607, y: -0.6563349, z: 0.19041815, w: -0.7011562}
   m_Size:
     m_Target: 5.748189
     speed: 2
